@@ -20,8 +20,8 @@ Modern, yüksek performanslı ve kullanıcı odaklı web uygulamaları geliştir
 
 ### 📁 Öne Çıkan Projeler
 
-* **Slim Moms:** React, Node.js ve **MongoDB** teknolojileri kullanılarak Full-Stack mimariyle geliştirilmiş bir **Sağlık ve Kalori Takip Uygulaması**. Projede **takım lideri** olarak görev aldım ve ekibin geliştirme süreçlerini baştan sona koordine ettim.
 * **Money Guard:** Ortak kullanıma uygun finansal yönetim web uygulaması. Projede hem Scrum Master hem de geliştirici olarak görev aldım; modüler kayıt akışları ve güçlü bir durum yönetimi (state management) entegre ettim.
+* **Slim Moms:** React, Node.js ve **MongoDB** teknolojileri kullanılarak Full-Stack mimariyle geliştirilmiş bir **Sağlık ve Kalori Takip Uygulaması**. Projede **takım lideri** olarak görev aldım ve ekibin geliştirme süreçlerini baştan sona koordine ettim.
 * **Travel Trucks:** Karavan kiralama süreçlerini dijitalleştiren web platformu. Projeyi duyarlı (responsive) bir mobil yaklaşım yerine, kullanım senaryosuna uygun olarak kasıtlı şekilde masaüstü ekranlar için tasarlayıp geliştirdim. Kullanıcıların arama ve rezervasyon akışlarını optimize eden sade bir arayüz sundum.
 
 ---
